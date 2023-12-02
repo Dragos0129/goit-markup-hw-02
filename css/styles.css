@@ -15,12 +15,12 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.link {
+.navigation-index-link {
   text-decoration: none;
 }
 .navigation-index-span {
   color: #2e2f42;
 }
-.list {
+.navigation-index-list {
   list-style: none;
 }
