@@ -15,12 +15,38 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.navigation-index-list {
+.list {
   list-style: none;
+  font-style: normal;
 }
 .link {
   text-decoration: none;
+  font-weight: 500;
 }
 .navigation-index-span {
   color: #2e2f42;
+}
+.first-section {
+  background-color: #2e2f42;
+}
+.title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button-index {
+  background-color: #4d5ae5;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  text-align: center;
+}
+.button-index:hover:focus {
+  background-color: #404bbf;
+  cursor: pointer;
 }
