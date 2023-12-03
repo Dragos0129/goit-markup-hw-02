@@ -22,4 +22,7 @@ color: #2e2f42;}
 .list{ list-style: none;}
 .span{color: #2e2f42;}
 .link2{ text-decoration: none;}
-.link:hover:focus{color: #404bbf}
+.link:hover{color: #404bbf}
+.link:focus{color: #404bbf;}
+.address-list{font-style: normal;
+}
