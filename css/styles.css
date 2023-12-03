@@ -22,7 +22,7 @@ color: #2e2f42;}
 .list{ list-style: none;}
 .span{color: #2e2f42;}
 .link2{ text-decoration: none;}
-.link:hover{color: #404bbf}
+.link:hover,
 .link:focus{color: #404bbf;}
 .address-list{font-style: normal;
 }
@@ -41,7 +41,7 @@ color: #2e2f42;}
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;}
-    .button:hover{background-color: #404bbf;}
+    .button:hover,
     .button:focus{background-color: #404bbf;}
     .title2{font-weight: 500;
       font-size: 20px;
