@@ -16,12 +16,13 @@
   color: #4d5ae5;
 }
 .link {
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  text-transform: uppercase;
   color: var(--brand-color);
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  font-family: "Raleway", sans-serif;
 }
 .list {
   list-style: none;
@@ -78,14 +79,7 @@
   color: #434455;
 }
 .footer {
-  font-family: "Raleway", sans-serif;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  background-color: var(--brand-color);
+  background-color: #2e2f42;
 }
 .footer-p {
   line-height: 1.5;
